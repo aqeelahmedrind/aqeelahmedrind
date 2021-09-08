@@ -1,12 +1,4 @@
-### Hi there 👋
-
-<!--
-**aqeelahmedrind/aqeelahmedrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning .## Hi, I'm Aqeel Ahmed! 👋
+## Hi, I'm Aqeel Ahmed! 👋
 
 <a href="https://twitter.com/AqeelAhmed">
   <img align="left" alt="Aqeel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
