@@ -22,15 +22,15 @@
 
 - 🔭 I’m currently working on HTML & CSS.
 - 🌱 I’m currently learning more about Web developing.
-- 🤔 I’m looking for help in growing my [Twitter](https://twitter.com/AqeelAhmed).
+- 🤔 I’m looking for help in growing my [Twitter](https://twitter.com/AqeeeBaloSHi).
 - 💬 Ask me about HTML and CSS or any tech related stuff.
-- 📫 How to reach me: [Twitter - @AqeelAhmed](https://twitter.com/rashidwassaan).
+- 📫 How to reach me: [Twitter - @Aqeee BaloSHi](https://twitter.com/Aqeee BaloSHi).
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I am a moblie gaming🙃.
 
 ![](https://komarev.com/ghpvc/?username= AqeelAhmed&color=blueviolet&label=Profile+Views)
-[![Twitter: AqeelAhmed](https://img.shields.io/twitter/follow/AqeelAhmed?style=social)](https://twitter.com/AqeelAhmed)
-[![Linkedin: AqeelAhmed](https://img.shields.io/badge/-AqeelAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AqeelAhmed/)](https://www.linkedin.com/in/Aqeel Ahmed/)
+[![Twitter: Aqeee BaloSHi](https://img.shields.io/twitter/follow/Aqeee BaloSHi?style=social)](https://twitter.com/Aqeee BaloSHi)
+[![Linkedin: AqeelAhmed](https://img.shields.io/badge/-AqeelAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AqeelAhmed/)](https://www.linkedin.com/in/AqeelAhmed/)
 [![GitHub:AqeelAhmed](https://img.shields.io/github/followers/AqeelAhmed?label=follow&style=social)](https://github.com/iampawan)
 
 
